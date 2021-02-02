@@ -4,5 +4,5 @@ def countA(w):
         if w[i] == "a":
             count = (0 + 1)
 
-            return count
+    return count
 print(countA("cat"))
